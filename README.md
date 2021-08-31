@@ -1,5 +1,4 @@
-# Na to pauza! 🇵🇱
+# No to pauza! 🇵🇱
 
 Monte snack, be right back.
 
-WIP: Web version

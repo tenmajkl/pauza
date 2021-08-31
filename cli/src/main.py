@@ -4,7 +4,7 @@ def main():
     subject = randomWord("subjects").capitalize()
     adjective = randomWord("adjectives")
 
-    result = f"{subject} {adjective}? Na to pauza!"
+    result = f"{subject} {adjective}? No to pauza!"
     
     print(result)
 
